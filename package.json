@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Shivaji1487/SampleAPI/issues"
   },
-  "homepage": "https://github.com/Shivaji1487/SampleAPI#readme"
+  "homepage": "https://github.com/Shivaji1487/SampleAPI#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
