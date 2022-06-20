@@ -1,0 +1,19 @@
+{
+  "name": "sampleapi",
+  "version": "1.0.0",
+  "description": "APICalls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivaji1487/SampleAPI.git"
+  },
+  "author": "Shivaji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shivaji1487/SampleAPI/issues"
+  },
+  "homepage": "https://github.com/Shivaji1487/SampleAPI#readme"
+}
